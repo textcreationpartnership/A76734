@@ -1,0 +1,716 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loyalties tears flowing after the bloud of the royall sufferer Charles I. &amp;c. Englands glory and shame. By J.B.</title>
+            <author>Birkenhead, John, Sir, 1616-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76734</idno>
+            <idno type="STC">Wing B2966</idno>
+            <idno type="STC">Thomason E1244_4</idno>
+            <idno type="STC">ESTC R209196</idno>
+            <idno type="EEBO-CITATION">99868086</idno>
+            <idno type="PROQUEST">99868086</idno>
+            <idno type="VID">169489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 170:E1244[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loyalties tears flowing after the bloud of the royall sufferer Charles I. &amp;c. Englands glory and shame. By J.B.</title>
+                  <author>Birkenhead, John, Sir, 1616-1679.</author>
+                  <author>Barlow, James, 17th cent, attributed name.</author>
+               </titleStmt>
+               <extent>[4], 11, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Anno Dom. 1649. [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.B. = Sir John Birkenhead.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>With an initial blank leaf.</note>
+                  <note>In verse.</note>
+                  <note>An eight page advertisement (sig. A) is appended: "Courteous reader, these books following are printed for Humphrey Moseley, ..".</note>
+                  <note>Annotation on Thomason copy: "Jan: 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169489:1" rendition="simple:additions"/>
+            <p>LOYALTIES TEARS FLOWING AFTER THE BLOUD OF THE ROYALL SUFFERER CHARLES I. &amp;c.</p>
+            <p>
+               <hi>ENGLANDS Glory and Shame.</hi>
+            </p>
+            <p>
+               <hi>BY</hi> J. B.</p>
+            <q>
+               <hi>—Dabit Indignatio verſum.</hi>
+            </q>
+            <p>
+               <hi>Anno Dom.</hi> 1649.</p>
+            <pb facs="tcp:169489:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:169489:2"/>
+            <head>
+               <hi>LOYALTIES TEARS</hi> Flowing after the Blood of the <hi>ROYALL SUFFERER,</hi> CHARLES the I. <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>—Dabit Indignatio verſum.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>BLood!</hi> and a <hi>Kings!</hi> and <hi>ſuch a Kings!</hi> and that</l>
+               <l>Not ſhed by Tigres or by Dragons Laws,</l>
+               <l>But <hi>Chriſtian humble Subjects Zeal!</hi> O blot</l>
+               <l>Out thoſe faint words which on the <hi>Teeth</hi> and <hi>Paws</hi>
+               </l>
+               <l>Of <hi>Barbariſme</hi> were grav'd: and in this Nation</l>
+               <l>For <hi>Salvageneſſe's</hi> Names, write <hi>Reformation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come, come, <hi>Amazement,</hi> and attend this <hi>Day</hi>
+               </l>
+               <l>Which lets the Powers of <hi>night</hi> and <hi>darkneſſe</hi> looſe:</l>
+               <l>Which Capital enacts it, not to ſay</l>
+               <l>I juſtifie my Juſtice-trampling Foes:</l>
+               <l>Which writes a Law, and that in Royal Bloud,</l>
+               <l>That <hi>'tis in England, Treaſon to be Good.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:169489:3"/>
+               <l>A <hi>Day</hi> which damns it as a deadly Crime</l>
+               <l>
+                  <hi>To be a King:</hi> A <hi>Day</hi> in which the ſtain</l>
+               <l>Of <hi>murderous cruelty</hi> thoſe poure on him</l>
+               <l>Who ſtrove <hi>their butchering furie</hi> to reſtrain;</l>
+               <l>Making that Prince a <hi>Tyrant,</hi> who denies</l>
+               <l>His Subjects but <hi>his leave to Tyrannize.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A <hi>Day</hi> in which the ſacred <hi>Head</hi> offends</l>
+               <l>Becauſe he ſtoops not to the kicking <hi>feet:</hi>
+               </l>
+               <l>In which <hi>Laws Baſis</hi> all Laws ſtructure rends</l>
+               <l>By not ſubverting his own Judgement Seat:</l>
+               <l>In which it muſt be grand Impietie</l>
+               <l>Reſolv'd <hi>Defender of the Faith</hi> to be.</l>
+            </lg>
+            <lg>
+               <l>O heav'nly-guilty <hi>Charles!</hi> how bleſſed were</l>
+               <l>Thoſe Crimes of His; but how unbleſſed We</l>
+               <l>Who now ſo bloudily releaſed are</l>
+               <l>From the dear Yoke of ſuch ſweet tyrannie:</l>
+               <l>A tyranny which nobly doth oppreſſe</l>
+               <l>The <hi>Liberties</hi> of none but <hi>wickedneſſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When <hi>wealth</hi> grown <hi>common,</hi> ſpoil'd the <hi>Common<g ref="char:EOLhyphen"/>wealth</hi>
+               </l>
+               <l>By her too full fed Daughter wanton <hi>Pride:</hi>
+               </l>
+               <l>And fretfull <hi>Schiſme,</hi> having by wiſe ſtealth</l>
+               <l>Inveigled <hi>Numbers</hi> Power to her ſide,</l>
+               <l>Secur'd the <hi>Pulpit-garriſons,</hi> and well</l>
+               <l>By <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> and <hi>Doctrine</hi> arm'd the word <hi>Rebell:</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:169489:3"/>
+               <l>When <hi>ſlander</hi> firſt had robb'd him of his <hi>Reaſon,</hi>
+               </l>
+               <l>And from his <hi>Counſel Armies</hi> ſought to bring him:</l>
+               <l>When by bold cannons mouths more braſen <hi>treaſon</hi>
+               </l>
+               <l>Learn'd to Petition: and when to Un-king him,</l>
+               <l>Was judg'd the onely way to make him be</l>
+               <l>A <hi>glorious Monarch:</hi> Then, then <hi>ſtraitned He</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Enter'd his <hi>wideſt liſts of Virtue:</hi> where</l>
+               <l>His looks on <hi>kindeſt fortune</hi> did diſplay</l>
+               <l>His <hi>holy bravery,</hi> by which he ne'r</l>
+               <l>Without a ſigh beheld his <hi>bloudy Bay;</hi>
+               </l>
+               <l>But ſadly ponder'd, how he was conſtrained</l>
+               <l>To looſe his <hi>Subjects,</hi> when the <hi>field</hi> he gained.</l>
+            </lg>
+            <lg>
+               <l>So when a tender <hi>Father,</hi> forc'd to ſhield</l>
+               <l>Againſt <hi>rebellious Sonnes</hi> his ſacred Right,</l>
+               <l>By dear ſucceſſe obtains a bloudy field;</l>
+               <l>His ſlaughter'd Childrens lamentable ſight</l>
+               <l>The Warre upon his Bowels doth renew,</l>
+               <l>And makes him die for every one he ſlew.</l>
+            </lg>
+            <lg>
+               <l>Heroick Conflicts theſe! But nobler they</l>
+               <l>In which as oft He with <hi>Diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſters</hi> fought</l>
+               <l>As with the <hi>Rebels:</hi> though his <hi>Troups</hi> gave way,</l>
+               <l>His gallant <hi>Patience</hi> ne'r was put to rout.</l>
+               <l>Thus in whatever unſucceſsfull field</l>
+               <l>He loſt his <hi>Armies,</hi> ſtill his <hi>Strength</hi> he held.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:169489:4"/>
+               <l>
+                  <hi>Strength, ſtrength</hi> it is, with an undaunted heart</l>
+               <l>To ſee <hi>Right</hi> beaten, <hi>Innocence</hi> purſued,</l>
+               <l>
+                  <hi>Integrity</hi> betray'd by <hi>fawning Art,</hi>
+               </l>
+               <l>
+                  <hi>The Spring of Power</hi> by wild <hi>ſtreams</hi> ſubdued:</l>
+               <l>To ſcorn proud <hi>chance,</hi> &amp; hug juſt <hi>truth,</hi> although</l>
+               <l>Poore ſhe nought but her <hi>naked ſelf</hi> can ſhow.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Her</hi> did he hug in his hearts <hi>Cabinet</hi>
+               </l>
+               <l>Beyond the reach of fatall <hi>Naſebies</hi> plunder:</l>
+               <l>Though all his other <hi>Holds</hi> their copies ſet,</l>
+               <l>They ne'r could move <hi>this Caſtle</hi> to ſurrender.</l>
+               <l>Yet ſince the <hi>Engliſh</hi> perſecute her ſo,</l>
+               <l>He means to trie what <hi>Scots</hi> for <hi>Truth</hi> will do.</l>
+            </lg>
+            <lg>
+               <l>Unhappy <hi>Scots!</hi> who now bluſh not to be</l>
+               <l>
+                  <hi>Falſe unto Truth:</hi> who teach the World what price</l>
+               <l>They ſet on <hi>Kings:</hi> who put their Loyaltie</l>
+               <l>Into their purſe: who to their <hi>Avarice,</hi>
+               </l>
+               <l>And <hi>fellow<g ref="char:punc">▪</g>Rebels,</hi> their great <hi>Master</hi> ſell,</l>
+               <l>That <hi>Judas</hi> might not want a Parallel.</l>
+            </lg>
+            <lg>
+               <l>From Jail to Jail the <hi>Royall Sufferer</hi>
+               </l>
+               <l>Is thus by <hi>freedoms monſtrous Patrons</hi> toſt.</l>
+               <l>Nor may his deareſt <hi>Queen</hi> or <hi>Children</hi> bear</l>
+               <l>His Deſolation company: the moſt</l>
+               <l>Favour his Subjects grant him, is, that yet</l>
+               <l>
+                  <hi>Him</hi> from <hi>Himſelf</hi> the Ax forbears to cut.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:169489:4"/>
+               <l>All elſe they tear away, not leaving thoſe</l>
+               <l>Whoſe <hi>ſacred Office</hi> might his <hi>Prayers</hi> aſſiſt.</l>
+               <l>O worſt of helliſh Barbariſme! by whoſe</l>
+               <l>Black art, unleſſe <hi>Charles</hi> can be <hi>King</hi> and <hi>Prieſt,</hi>
+               </l>
+               <l>He muſt be both from his <hi>three Kingdom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> driven</l>
+               <l>Here upon Earth, and from the <hi>fourth in Heaven.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But his brave Soul was fortifi'd too well</l>
+               <l>To yield her holy fort of Pietie.</l>
+               <l>All elſe he granteth; yet denieth ſtill</l>
+               <l>To ſacrifice the envied Altar: He</l>
+               <l>Holding, what yet he might not uſe, maintains</l>
+               <l>His <hi>Realm of Goodneſſe,</hi> and <hi>in Carisbrook reigns.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>He reigns:</hi> and though his Foes He could not, yet</l>
+               <l>His nobler Self He conquers; and ih high</l>
+               <l>Triumph looks down from <hi>Conſtancies</hi> brave ſeat</l>
+               <l>On the vaſt Ruins of that <hi>Majeſtie</hi>
+               </l>
+               <l>Which lately flouriſh'd in full glory on</l>
+               <l>His <hi>Britiſh</hi> and his <hi>Iriſh</hi> potent Throne.</l>
+            </lg>
+            <lg>
+               <l>He curſes not, but ſlights <hi>falſe fortune,</hi> and</l>
+               <l>Remembers that <hi>three Crowns</hi> leſſe Princely are</l>
+               <l>Then <hi>Chriſtian reſolution,</hi> which dares ſtand</l>
+               <l>The furie ev'n of <hi>Reformations Warre.</hi>
+               </l>
+               <l>O <hi>glorious Virtue,</hi> which could <hi>glory ſpare,</hi>
+               </l>
+               <l>And higheſt gains from deepeſt loſſes tear!</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:169489:5"/>
+               <l>What though's betrayed <hi>Sword</hi> appear'd too weak</l>
+               <l>To vindicate his Honour? yet his <hi>Pen</hi>
+               </l>
+               <l>Doth all the <hi>Rebels</hi> proudeſt Conqueſts break;</l>
+               <l>And oh how much more then his <hi>Britain</hi> win!</l>
+               <l>For all the <hi>world</hi> now bows down to the look</l>
+               <l>Of his illuſtrious moſt triumphant <hi>Book.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That <hi>Book,</hi> on which <hi>aſtoniſhment</hi> muſt dwell</l>
+               <l>For evermore: whil'ſt every Reader there</l>
+               <l>Beholds what miracles of worth did ſwell</l>
+               <l>The <hi>Authours</hi> Soul. Nor ſhall his <hi>Murderers</hi> dare</l>
+               <l>(Though bloudy malice at his life repines)</l>
+               <l>Not to admire and love Him in his <hi>lines.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But now his Foes worſt envie he foreſtalls,</l>
+               <l>And <hi>lives in Heav'n</hi> before they force him thither:</l>
+               <l>For up He climbs when on his knees He falls,</l>
+               <l>And by his <hi>Meditations,</hi> together</l>
+               <l>With <hi>Saints</hi> and <hi>Angels</hi> doth adore that <hi>God</hi>
+               </l>
+               <l>Whoſe noble path of <hi>ſuffrings</hi> here he trod.</l>
+            </lg>
+            <lg>
+               <l>Him he adores, and to his <hi>mercy</hi> ſues</l>
+               <l>In <hi>their</hi> behalf, who none to Him would ſhow.</l>
+               <l>He ſweetly minds Him of thoſe barbarous <hi>Jews</hi>
+               </l>
+               <l>Upon whoſe ſpight down with his bloud did flow</l>
+               <l>His pitying pray'rs: And why ſhould <hi>mine,</hi> ſaies He</l>
+               <l>More then <hi>thy wrongs,</hi> dear <hi>Lord,</hi> revenged be?</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:169489:5"/>
+               <l>Surely were <hi>Rebels</hi> not <hi>their own worſt Foes;</hi>
+               </l>
+               <l>They would permit this <hi>royall Saint</hi> to live,</l>
+               <l>And pray for their demerits pardon, whoſe</l>
+               <l>Unhappy hearts were too too dead to ſtrive</l>
+               <l>For life eternall. But alas, it grieves</l>
+               <l>The wretched <hi>Members</hi> that their <hi>Head</hi> but lives</l>
+            </lg>
+            <lg>
+               <l>His <hi>holy life</hi> their <hi>ſcandall</hi> is, and He</l>
+               <l>Is ſo <hi>unſufferably good,</hi> that they</l>
+               <l>No ſuch example can endure to be</l>
+               <l>A check to their own guilt. Beſides no way</l>
+               <l>They had with free and ſafe convenience in</l>
+               <l>The <hi>Lyons</hi> life-time to divide his <hi>skin.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus through the People-cheating Pageantry</l>
+               <l>Of ſpecious formall <hi>Court,</hi> and <hi>Judge,</hi> and <hi>Barre,</hi>
+               </l>
+               <l>(That He might mock'd, as well's oppreſſed die)</l>
+               <l>He convoy'd is to his laſt Theatre:</l>
+               <l>Where how he <hi>acts</hi> his <hi>Paſsions part,</hi> may <hi>they</hi>
+               </l>
+               <l>Who to this Martyrdome did bring him, ſay;</l>
+            </lg>
+            <lg>
+               <l>Say, <hi>Wretches,</hi> was <hi>Deaths</hi> bloudy <hi>face</hi> to him</l>
+               <l>So dreadfull as the <hi>thought</hi> of it to you?</l>
+               <l>Of's <hi>Scepter</hi> did he e'r ſo tender ſeem</l>
+               <l>As of the <hi>Ax?</hi> taught he not Princes how</l>
+               <l>To reigne in death, when he gave ſtrait command</l>
+               <l>Not that his <hi>Throne,</hi> but <hi>Block</hi> ſhould firmly ſtand</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:169489:6"/>
+               <l>And wiſh'd he not <hi>that Block</hi> had higher been,</l>
+               <l>That all bloud-thirſty ees that thither came,</l>
+               <l>Might their dear draught have had, and fully ſeen</l>
+               <l>How little he aſhamed was of <hi>ſhame?</hi>
+               </l>
+               <l>Yet though thus low, it ſerv'd him for his ſtep</l>
+               <l>From earth to heav'ns high kingdome to get up.</l>
+            </lg>
+            <lg>
+               <l>Such power at laſt has <hi>holy patience,</hi> that</l>
+               <l>Her deadlieſt Foes ſhe can compell to be</l>
+               <l>Her greateſt Servants, and make every Plot</l>
+               <l>Of ſpight advance her own felicitie.</l>
+               <l>For know, <hi>miſtaken Murderers,</hi> that you did</l>
+               <l>Put on his <hi>Crown,</hi> when you took off his <hi>Head.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now his <hi>Houſes</hi> may his <hi>Lands divide,</hi>
+               </l>
+               <l>And reap the fruit of thoſe <hi>Diviſions</hi> they</l>
+               <l>Spred through his Realms: Now atheiſtick <hi>Pride</hi>
+               </l>
+               <l>The ground-work of Confuſion may lay</l>
+               <l>On <hi>proſperous Villany,</hi> and call <hi>God</hi> in</l>
+               <l>Becauſe he ſcourges not, to own their ſin.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Covenant,</hi> and its <hi>Independant ſpawn</hi>
+               </l>
+               <l>May now blaſpheme with credit, having brought</l>
+               <l>Their <hi>ſeaven years holy Work</hi> to end, and drawn</l>
+               <l>The <hi>Rubrick</hi> of their <hi>pure Religion</hi> out</l>
+               <l>Of their own <hi>Sovereigns veins:</hi> They now toge<g ref="char:EOLhyphen"/>ther</l>
+               <l>On horſeback got, may ride—O ſay not whether.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:169489:6"/>
+               <l>Their Triumphs they may read, and ſee how they</l>
+               <l>Have by one ſingle univerſall Blow</l>
+               <l>Cut down Religions moſt reſolved <hi>Stay;</hi>
+               </l>
+               <l>Broke the eſtabliſh'd <hi>Pillar</hi> of the Law;</l>
+               <l>Daſh'd out wiſe <hi>Piety,</hi> white <hi>Continence,</hi>
+               </l>
+               <l>Mild <hi>Majeſty,</hi> and generous <hi>Temperance.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Surely all <hi>Conqueſts</hi> conquer'd are by this,</l>
+               <l>But <hi>Pilat's,</hi> and the <hi>Jew's:</hi> Yet they are not</l>
+               <l>In fault, ſince <hi>Chriſt</hi> himſelf ſecur'd is</l>
+               <l>Above the reach of <hi>Ax,</hi> or <hi>Vote,</hi> or <hi>Scot:</hi>
+               </l>
+               <l>And what could they do more or braver now,</l>
+               <l>Then murder <hi>Him</hi> in's <hi>Deputy</hi> below,</l>
+            </lg>
+            <lg>
+               <l>His <hi>Deputy,</hi> as <hi>Lyon,</hi> and as <hi>Lamb;</hi>
+               </l>
+               <l>As <hi>King,</hi> and as <hi>betrayed, bought and ſold?</hi>
+               </l>
+               <l>No; Men could do more; and therefore <hi>Fame</hi>
+               </l>
+               <l>Muſt do them right: for if their Power could</l>
+               <l>Anſwer their Courage, they durſt have a fling</l>
+               <l>At <hi>God himſelf,</hi> becauſe He is a <hi>King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But heark, what fatall <hi>Noiſe</hi> is that which flies</l>
+               <l>On <hi>terrours</hi> wings, and thunders at the Skie:</l>
+               <l>Poor <hi>Bradſhaw</hi> now his leave in vain denies,</l>
+               <l>For though <hi>Charls</hi> might not <hi>ſpeak,</hi> his <hi>Bloud</hi> will <hi>cry</hi>
+               </l>
+               <l>It Cries, &amp; fears nor Guns, nor Trumpets throats,</l>
+               <l>Nor the more barbarous Roar of <hi>Rebels Votes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:169489:7"/>
+               <l>A ſtronger Realms <hi>Militia</hi> it awakes</l>
+               <l>Then <hi>He</hi> was robb'd of here; through all the ſphears</l>
+               <l>With valiant Importunity it breaks,</l>
+               <l>And ſounds a March to <hi>Vengeance:</hi> In <hi>His</hi> ears</l>
+               <l>Who onely the <hi>true Independent</hi> is</l>
+               <l>It pleads againſt the <hi>falſe Ones</hi> Salvageneſſe.</l>
+            </lg>
+            <lg>
+               <l>O deſperate Fools! why, why would you compell</l>
+               <l>Such <hi>gentle Bloud</hi> ſo cruelly to ſpeak?</l>
+               <l>Why could you not have ſtayed for your Hell,</l>
+               <l>Till Death had ſent you down: but needs muſt make</l>
+               <l>
+                  <hi>Judgement</hi> prepare you torments <hi>here,</hi> and frie</l>
+               <l>Your guilty Souls in Horrours Miſerie?</l>
+            </lg>
+            <lg>
+               <l>Frie them it will, if this your <hi>Sovereigns Bloud</hi>
+               </l>
+               <l>Makes you not bluſh: If on your flaming <hi>ſin</hi>
+               </l>
+               <l>You poure not out a <hi>penitentiall floud;</hi>
+               </l>
+               <l>If your moſt trayterous <hi>Ax</hi> you feel not in</l>
+               <l>Your humbled Breaſts, that there the curſed <hi>Woun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>May upon your own <hi>ſmitten hearts</hi> rebound.</l>
+            </lg>
+            <lg>
+               <l>But when it ſhall be lawfull, <hi>not to lie,</hi>
+               </l>
+               <l>And ſafely give ſublime <hi>Deſert</hi> its due;</l>
+               <l>When loyall tongues ſhall not prove Traytours by</l>
+               <l>
+                  <hi>Th' Allegiance of Praiſes;</hi> when the <hi>few</hi>
+               </l>
+               <l>Shall be more worth then are the <hi>Many;</hi> when</l>
+               <l>
+                  <hi>Truth</hi> may have leave to be <hi>her ſelf</hi> agen:</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:169489:7"/>
+               <l>Then ſhall true-hearted <hi>Muſes</hi> freely broach</l>
+               <l>Their richeſt and their moſt heroick Vein</l>
+               <l>To wait on this <hi>Blouds</hi> ſtreams, and flow in ſuch</l>
+               <l>A generous and time-defying Strein,</l>
+               <l>That <hi>Charles</hi> again ſhall <hi>live in ſtate,</hi> and prove</l>
+               <l>
+                  <hi>Immortall</hi> ſomewhere elſe beſides <hi>Above.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All Nations then amaz'd ſhall ſtand, to ſee</l>
+               <l>What <hi>England</hi> had, and needs away would throw:</l>
+               <l>Then to his Worths illuſtrious Hiſtorie</l>
+               <l>All pious <hi>Kings</hi> ſhall ſtrive to School to go:</l>
+               <l>In <hi>Wonders</hi> Odours then ſhall nobleſt <hi>Fame</hi>
+               </l>
+               <l>Embalme the Glories of His <hi>ſacred Name.</hi>
+               </l>
+            </lg>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:169489:8"/>
+            <pb facs="tcp:169489:8"/>
+            <head>
+               <hi>Courteous Reader,</hi> Theſe Books fol<g ref="char:EOLhyphen"/>lowing are Printed for <hi>Humphrey Moſe<g ref="char:EOLhyphen"/>ley,</hi> and are to be ſold at his ſhop at the <hi>Princes Armes</hi> in St <hi>PAULS</hi> Church-yard.</head>
+            <list>
+               <head>
+                  <hi>Various Hiſtories, with curious Diſcourſes in Humane Learning,</hi> &amp;c.</head>
+               <item>1. THe Hiſtory of the <hi>Baniſhed Virgin,</hi> a Ro<g ref="char:EOLhyphen"/>mance tranſlated by <hi>I. H.</hi> Eſq; Fol.</item>
+               <item>2. The Hiſtory of <hi>Polexander,</hi> Engliſhed by <hi>William Brown</hi> Gent. Printed for <hi>T. W.</hi> and are to be ſold by <hi>Humphrey Moſeley,</hi> in Folio.</item>
+               <item>3. Mr <hi>Iames Howels</hi> Hiſtory of <hi>Lewis</hi> the thir<g ref="char:EOLhyphen"/>teenth, King of <hi>France,</hi> with the life of his <hi>Cardinall de Richelieu,</hi> in Folio.</item>
+               <item>4. Mr <hi>Howels Epiſtolae Ho-Elianae,</hi> Familiar Let<g ref="char:EOLhyphen"/>ters, <hi>Domeſtic</hi> and <hi>Forren,</hi> in ſix Sections, Partly <hi>Historicall, Politicall, Philoſophicall,</hi> firſt Volume with Additions, in 8<hi rend="sup">o</hi> 1650.</item>
+               <item>5. Mr <hi>Howels</hi> New Volume of <hi>Familiar Letters;</hi> Partly <hi>Hiſtoricall, Politicall, Philoſophicall,</hi> the ſe<g ref="char:EOLhyphen"/>cond Volume with many Additions. 1650.</item>
+               <item>6. Mr <hi>Howels</hi> third Volume of Additionall Let<g ref="char:EOLhyphen"/>ters of a freſher date, never before publiſhed, in 8<hi rend="sup">o</hi> 1650.</item>
+               <item>7. Mr <hi>Howels Dodona's Grove,</hi> or the <hi>Vocall For<g ref="char:EOLhyphen"/>reſt,</hi> in 12<hi rend="sup">o</hi> with Additions. 1650.</item>
+               <pb facs="tcp:169489:9"/>
+               <item> 8. Mr <hi>Howels Englands Teares</hi> for the preſent Warres, in 12<hi rend="sup">o</hi> 1650.</item>
+               <item>9. Mr <hi>Howell</hi> of the <hi>Pre-eminence</hi> and Pedegree of Parlement, in 12<hi rend="sup">o</hi> 1650.</item>
+               <item>10. Mr <hi>Howels</hi> Inſtructions for Forren Travels, in 12<hi rend="sup">o</hi> with divers Additions. 1650.</item>
+               <item>11. Mr <hi>Howels</hi> Vote, or a Poem Royall preſen<g ref="char:EOLhyphen"/>ted to His Majeſty, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>12. Mr <hi>Howels Angliae Suſpiria &amp; Lachrimae,</hi> in 12<hi rend="sup">o</hi>
+               </item>
+               <item>13. <hi>Policy Vnveiled,</hi> or <hi>Maximes of State,</hi> done into Engliſh by the Tranſlator of <hi>Guſman</hi> the Spaniſh Rogue, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>14. The Hiſtory of the <hi>Inquiſition,</hi> compoſed by the <hi>R. F. Paul Servita</hi> the compiler of the Hi<g ref="char:EOLhyphen"/>ſtory of the Councell of <hi>Trent,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>15. <hi>Biathanatos,</hi> a <hi>Paradox of Self-Homicide,</hi> by D. <hi>Io: Donne</hi> Deane of St <hi>Pauls</hi> London, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>16. <hi>Marques Virgillio Malvezzi's, Romulus</hi> and <hi>Tarquin,</hi> Engliſhed by <hi>Hen.</hi> Earle of <hi>Monmouth,</hi> in 12<hi rend="sup">o</hi>
+               </item>
+               <item>17. <hi>Marques Virgillio Malvezzis,</hi> David perſe<g ref="char:EOLhyphen"/>cuted, Engliſhed by <hi>Rob. Aſhley</hi> Gent. in 12<hi rend="sup">o</hi>
+               </item>
+               <item>18. <hi>Marques Virgillio Malvezzi,</hi> Of the ſucceſs and chief events of the Monarchy of <hi>Spaine,</hi> in the yeare 1639. of the Revolt of the Catalonians, Engliſhed by <hi>Rob. Gentilis,</hi> in 12<hi rend="sup">o</hi>
+               </item>
+               <item>19. <hi>Marques Virgillio Malvezzi's</hi> conſidera<g ref="char:EOLhyphen"/>tions on the lives of <hi>Alcibiades</hi> and <hi>Coriolanus,</hi> Engliſhed by <hi>Robert Gentilis,</hi> in 12<hi rend="sup">o</hi> 1650.</item>
+               <pb facs="tcp:169489:9"/>
+               <item> 20. Gracious Priviledges granted by the King of <hi>Spaine</hi> unto our Engliſh Merchants, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>21. The Hiſtory of Life and Death, or the Pro<g ref="char:EOLhyphen"/>mulgation of Life, written by <hi>Francis</hi> Lord <hi>Ve<g ref="char:EOLhyphen"/>rulam Viſcount</hi> St <hi>Alban.</hi> in 12<hi rend="sup">o</hi>
+               </item>
+               <item>22. The Antipathy between the <hi>French</hi> and the <hi>Spaniard,</hi> Tranſlated out of Spaniſh, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>23. Mr <hi>Birds</hi> Grounds of Grammer, in 8<hi rend="sup">o</hi>
+               </item>
+               <item>24. Mr <hi>Bulwers</hi> Philocophus, or the Deafe and Dumb mans friend, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>25. Mr <hi>Bulwers</hi> Pathomyotomia, or a Diſſe<g ref="char:EOLhyphen"/>ction of the ſignificative Muſcles of the Affecti<g ref="char:EOLhyphen"/>ons of the Mind, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>26. An Itinerary containing a Voyage made through Italy in the yeares 1646, 1647. Illuſtra<g ref="char:EOLhyphen"/>ted with divers Figures of Antiquities, never be<g ref="char:EOLhyphen"/>fore publiſhed, by <hi>Iohn Reymond.</hi> Gen. in 12<hi rend="sup">o</hi>
+               </item>
+               <item>27. The uſe of paſſions, written by <hi>I. F. Se<g ref="char:EOLhyphen"/>nault,</hi> and put into Engliſh by <hi>Henry</hi> Earl of <hi>Mon<g ref="char:EOLhyphen"/>mouth,</hi> in 8<hi rend="sup">o</hi>
+               </item>
+               <item>28. Choice Muſicke for three Voyces, with a Thorough Baſe, compoſed by Mr <hi>Henry</hi> and Mr <hi>William Lawes,</hi> Brothers and Servants to His Majeſty, with divers Elegies ſet in Muſicke by ſeverall friends upon the Death of Mr <hi>William Lawes,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>29. Judicious and ſelect Eſſayes and Obſerva<g ref="char:EOLhyphen"/>tions written by the Renowned &amp; learned Knight, Sir <hi>Walter Raleigh,</hi> with his Apology for his Voy<g ref="char:EOLhyphen"/>age to <hi>Guiana,</hi> in 8<hi rend="sup">o</hi> 1650.</item>
+            </list>
+            <list>
+               <pb facs="tcp:169489:10"/>
+               <head>Choice <hi>Poems,</hi> with excellent Tran<g ref="char:EOLhyphen"/>ſlations, and Incomparable Come<g ref="char:EOLhyphen"/>dies and Tragedies, written by ſeve<g ref="char:EOLhyphen"/>rall Ingenious Authors.</head>
+               <item>30 COmedies and Tragedies written by <hi>Francis Beaumont,</hi> and <hi>Iohn Fletcher</hi> Gent. never printed before, and now publiſhed by the Authors Originall Copies, containing 34 Playes, and a Maſque, in Folio.</item>
+               <item>31. Epigrammata <hi>Thomae Mori</hi> Angli, in 16<hi rend="sup">o</hi>
+               </item>
+               <item>32. <hi>Fragmenta Aurea,</hi> A collection of the In<g ref="char:EOLhyphen"/>comparable Pieces written by Sir <hi>Iohn Suckling</hi> Knight, in 8<hi rend="sup">o</hi>
+               </item>
+               <item>33. All <hi>Iuvenals</hi> 16. Satyrs, Tranſlated by Sir <hi>Robert Stapylton</hi> Knight, wherein is contained a Survey of the manners and Actions of Mankind, with Annotations, in 8<hi rend="sup">o</hi>
+               </item>
+               <item>34. <hi>Muſeus</hi> on the loves of <hi>Hero</hi> &amp; <hi>Leander,</hi> with <hi>Leanders</hi> Letters to <hi>Hero,</hi> and her anſwer, taken out of <hi>Ovid,</hi> with Annotations, by Sir <hi>Robert Sta<g ref="char:EOLhyphen"/>pylton</hi> Knight, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>35. Poems &amp;c. written by M. <hi>Edward Waller</hi> of <hi>Beckonsfield</hi> Eſq; in 8<hi rend="sup">o</hi>
+               </item>
+               <item>36. <hi>Paſtor fido,</hi> the faithfull Shepheard, a Paſto<g ref="char:EOLhyphen"/>rall, newly Tranſlated out of the Originall by <hi>Ri<g ref="char:EOLhyphen"/>chard Fanſhaw</hi> Eſq; in 4<hi rend="sup">o</hi>
+               </item>
+               <item>37. Poems, with a Diſcovery of the Civill Warres of <hi>Rome,</hi> by <hi>Richard Fanſhaw</hi> Eſq in 4<hi rend="sup">o</hi>
+               </item>
+               <pb facs="tcp:169489:10"/>
+               <item> 38. <hi>Aurora Iſmenia</hi> and the Prince, with <hi>Oron<g ref="char:EOLhyphen"/>ta</hi> the Cyprian Virgin, tranſlated by <hi>Tho: Stan<g ref="char:EOLhyphen"/>ley</hi> Eſq; the ſecond Edition corrected and amen<g ref="char:EOLhyphen"/>ded, in 8<hi rend="sup">o</hi> 1650.</item>
+               <item>39. <hi>Europa, Cupid</hi> crucified, <hi>Venus</hi> Vigills, with Annotations, by <hi>Thomas Stanley</hi> Eſq; in 8<hi rend="sup">o</hi> 1650.</item>
+               <item>40. <hi>Medea,</hi> a Tragedie written in Latine by <hi>Lucius Annaeus Seneca,</hi> Engliſhed by Mr <hi>Edward Sherburne</hi> Eſq; with Annotations, in 8<hi rend="sup">o</hi>
+               </item>
+               <item>41. <hi>Senecas</hi> Anſwer to <hi>Lucilius</hi> his Quaere why Good men ſuffer misfortunes ſeeing there is a Divine Providence, tranſlated into Engliſh Verſe by Mr <hi>Edward Sherburne</hi> Eſq; in 8<hi rend="sup">o</hi>
+               </item>
+               <item>42. Poems of Mr <hi>Iohn Milton,</hi> with a Maſque preſented at <hi>Ludlow</hi> Caſtle before the Earle of <hi>Bridgewater</hi> then Preſident of <hi>Wales,</hi> in 8<hi rend="sup">o</hi>
+               </item>
+               <item>43. Poems &amp;c. with a Maſque called the Tri<g ref="char:EOLhyphen"/>umph of Beauty, by <hi>Iames Shirley,</hi> in 8<hi rend="sup">o</hi>
+               </item>
+               <item>44 Steps to the Temple, Sacred Poems, with the Delight of the Muſes, upon ſeverall occaſions, by <hi>Richard Craſhaw</hi> of Cambridge, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>45. The Miſtris, or ſeverall Copies of Love verſes written by Mr <hi>Abraham Cowley,</hi> in 8<hi rend="sup">o</hi>
+               </item>
+               <item>46. Divine Poems, written by <hi>Francis Quarles</hi> Senior, in 8<hi rend="sup">o</hi>
+               </item>
+               <item>47. The Odes of <hi>Caſimire,</hi> tranſlated by <hi>George Hills,</hi> in 12<hi rend="sup">o</hi>
+               </item>
+               <item>48. <hi>Arnalte</hi> and <hi>Lucenda,</hi> or the Melancholy Knight, a Poem tranſlated by <hi>L. Lawrence</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>49. The Sophiſter, a Comedy, in 4<hi rend="sup">o</hi> by Dr <hi>S.</hi>
+               </item>
+               <pb facs="tcp:169489:11"/>
+               <item> 50. The woman Hater, or the Hungry Cour<g ref="char:EOLhyphen"/>tier, a Comedy written by <hi>Francis Beaumont</hi> and <hi>Iohn Fletcher</hi> Gen. in 4<hi rend="sup">o</hi>
+                  <g ref="char:punc">▪</g>
+               </item>
+               <item>51. The Tragedy of <hi>Thierry</hi> King of <hi>France,</hi> and his Brother <hi>Theodoret,</hi> written by <hi>Francis Beaumont</hi> and <hi>Iohn Fletcher,</hi> Gen. in 4<hi rend="sup">o</hi>
+               </item>
+               <item>52. The Unfortunate Lovers, a Tragedy, writ<g ref="char:EOLhyphen"/>ten by <hi>William Davenant</hi> Knight, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>53. Love and Honour, a Comedy, written by <hi>William Davenant</hi> Knight, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>54. Madagaſcar, with other Poems, written by <hi>William Davenant</hi> Knight, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>55. The Country Captain and the Varietie, Two Comedies written by a perſon of Honour, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>56. The Cid, a Trage-comedy. in 12<hi rend="sup">o</hi> 1650.</item>
+               <item>57. The <hi>Sophy,</hi> a Tragedy, written by <hi>Iohn Denham</hi> Eſq;</item>
+               <item>58. Coopers Hill, a Poem by <hi>Iohn Denham</hi> Eſq; the 2 Edition in 4<hi rend="sup">o</hi> with Additions. 1650.</item>
+               <item>59. Claraſtella with other occaſionall Poems, Elegies, Epigrams, and Satyrs, written by <hi>Robert Heath,</hi> Eſq; 1650.</item>
+               <item>60. The Accademy of Complements, wherein Ladies, Gentlewomen, Schollers, and Strangers, may accommodate their Courtly Practice with Gentile Ceremonies, Complemental, Amorous, high expreſſions and Formes of ſpeaking, or wri<g ref="char:EOLhyphen"/>ting of Letters, moſt in faſhion, with Additions of many witty Poems, and pleaſant new Songs, Newly Printed. 1650.</item>
+            </list>
+            <list>
+               <pb facs="tcp:169489:11"/>
+               <head>Severall Sermons with other Excellent Tracts in Divi<g ref="char:EOLhyphen"/>nity, written by ſome moſt eminent and learned Biſhops, and Orthodox Divines.</head>
+               <item>61 A <hi>Manual</hi> of Private Devotions and Medi<g ref="char:EOLhyphen"/>tations for every day in the week, by the right reverend Father in God, <hi>Lancelot Andrews,</hi> late Lord Biſhop of <hi>Wincheſter,</hi> in 24<hi rend="sup">o</hi>
+               </item>
+               <item>62 <hi>A Manuall</hi> of Directions for the Sick, with many ſweet Meditations and Devotions, by the Right Reverend Father in God <hi>Lancelot Andrews,</hi> late Lord Biſhop of <hi>Wincheſter,</hi> in 24<hi rend="sup">o</hi>
+               </item>
+               <item>63 Ten Sermons upon Severall Occaſions, preached at St <hi>Pauls Croſſe,</hi> and elſewhere, by the Right Reverend Father in God, <hi>Arthur Lake</hi> late Biſhop of <hi>Bath</hi> and <hi>Walls,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>64 Six Sermons upon Severall Occaſions preached at the Co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t before the Kings Majeſtie, and elſewhere, by that late Learned and reverend Divine, <hi>Iohn Donne</hi> Dr in Divinity, and Deane of St <hi>Pauls London,</hi> in 4<hi rend="sup">o</hi>.</item>
+               <item>65 Precious Promiſes and Priviledges of the faithfull, written by <hi>Richard Sibbes</hi> Doctor in Di<g ref="char:EOLhyphen"/>vinity, late Maſter of <hi>Katherin Hall</hi> in <hi>Cambridge,</hi> and Preacher of <hi>Grayes Inne London,</hi> in 12<hi rend="sup">o</hi>
+               </item>
+               <item>66 <hi>Sarah</hi> and <hi>Hagar,</hi> or the ſixteenth Chapter of <hi>Geneſis,</hi> opened in nineteene Sermons, being the firſt legitimate Eſſay of the Pious labours of that Learned, Orthodox, and Indefatigable Preacher of the Goſpell, Mr <hi>Ioſias Shute</hi> B. D. and above 33 years Rector of St <hi>Mary Woolnoth,</hi> in <hi>Lombard<g ref="char:EOLhyphen"/>ſtreet,</hi> in Folio.</item>
+               <pb facs="tcp:169489:12"/>
+               <item> 67 Chriſts tears, with his love and affection to<g ref="char:EOLhyphen"/>wards Jeruſalem, delivered in ſundry Sermons upon <hi>Luke</hi> 19. <hi>v.</hi> 41, 42. by <hi>Richard Maiden</hi> B D. Preacher of the Word of God, and late Fellow of <hi>Magdalen</hi> Colledge in <hi>Cambridge,</hi> 4<hi rend="sup">o</hi>
+               </item>
+               <item>68 Ten Sermons preached upon ſeverall Sun<g ref="char:EOLhyphen"/>dayes, and Saints dayes, by <hi>Peter Hauſted</hi> Mr. in Arts, and Curate at <hi>Vppingham</hi> in <hi>Rutland,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>69 18 Sermons preached upon the Incarnation and Nativity of our bleſſed Lord and Saviour Ie<g ref="char:EOLhyphen"/>ſus Chriſt, <hi>wherein the greateſt mysteries of Godli<g ref="char:EOLhyphen"/>neſſe are unfolded, to the capacity of the weakeſt Christian,</hi> by <hi>Iohn Dawſon,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>70 Chriſtian Divinity, written by <hi>Edmund Reeve,</hi> Bachelour in Divinity, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>71 A deſcription of the New-borne Chriſti<g ref="char:EOLhyphen"/>an, or a lively Patterne of the Saint militant, child of God, written by <hi>Nicholas Hunt,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>72 The Tyranny of Satan, in a Recantation Sermon at St <hi>Pauls Croſſe,</hi> by <hi>T. Gage,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>73 <hi>The True and abſolu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Biſhop, wherein is ſhew<g ref="char:EOLhyphen"/>ed how Chriſt is our only Shepheard, and Biſhop of our ſouls,</hi> by <hi>Nicholas Darton,</hi> in 4<hi rend="sup">o</hi>
+               </item>
+               <item>74 Divine Meditations upon the 91 Pſalm, and on the Hiſt. of <hi>Agag</hi> K. of <hi>Amaleck,</hi> with an Eſſay of friendſhip, written by an Hon<hi rend="sup">ble</hi> perſon, in 12<hi rend="sup">o</hi>
+               </item>
+               <item>75 <hi>Lazarus</hi> his reſt, a Sermon preached at the Funerall of that pious, learned, &amp; Orthodox Divine, Mr. <hi>Ephraim Vdall,</hi> by <hi>Thomas Reeve</hi> Bachelor in Divinity, in 4<hi rend="sup">o</hi>
+               </item>
+               <item>76. An Hiſtoricall Anatomy of Chriſtian Melancholy, by <hi>Ed<g ref="char:EOLhyphen"/>mund Gregory,</hi> in 8<hi rend="sup">o</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
